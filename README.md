@@ -7,3 +7,4 @@ URL https://adventofcode.com/2024
 - [Day 2](./src/day2/index.js)
 - [Day 3](./src/day3/index.js)
 - [Day 4](./src/day4/index.js)
+- [Day 5](./src/day5/index.js)
